@@ -1,0 +1,6 @@
+{
+  "name": "ExportMarket Pro",
+  "description": "Global Market Intelligence & Export Readiness for Indian Exporters - KCLAS Liberal Edge Week 2026 Team 2",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
